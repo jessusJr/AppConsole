@@ -6,7 +6,15 @@ namespace appConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            if(args.Length > 0){
+                Console.WriteLine($"Hello {args[0]}!");
+                Console.ReadLine();
+            }
+            else{
+                Console.WriteLine("Hello");
+                Console.WriteLine();
+            }
+            
         }
     }
 }
