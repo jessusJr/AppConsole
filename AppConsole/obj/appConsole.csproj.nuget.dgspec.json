@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dotad\\Documents\\Repositorios\\appConsole\\appConsole.csproj": {}
+    "C:\\Users\\dotad\\Documents\\Repositorios\\PoyectoConsole\\AppConsole\\appConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dotad\\Documents\\Repositorios\\appConsole\\appConsole.csproj": {
+    "C:\\Users\\dotad\\Documents\\Repositorios\\PoyectoConsole\\AppConsole\\appConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dotad\\Documents\\Repositorios\\appConsole\\appConsole.csproj",
+        "projectUniqueName": "C:\\Users\\dotad\\Documents\\Repositorios\\PoyectoConsole\\AppConsole\\appConsole.csproj",
         "projectName": "appConsole",
-        "projectPath": "C:\\Users\\dotad\\Documents\\Repositorios\\appConsole\\appConsole.csproj",
+        "projectPath": "C:\\Users\\dotad\\Documents\\Repositorios\\PoyectoConsole\\AppConsole\\appConsole.csproj",
         "packagesPath": "C:\\Users\\dotad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dotad\\Documents\\Repositorios\\appConsole\\obj\\",
+        "outputPath": "C:\\Users\\dotad\\Documents\\Repositorios\\PoyectoConsole\\AppConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dotad\\AppData\\Roaming\\NuGet\\NuGet.Config",
