@@ -16,7 +16,7 @@ namespace GradeBook
                 listAgrade.Add(grade);
             }
         }
-        private List<double> listAgrade;
+        private  List<double> listAgrade;
         private string name;
 
     }

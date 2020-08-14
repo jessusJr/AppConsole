@@ -17,6 +17,7 @@ namespace appConsole
             //double [] numbers = new double[3];
             book.AddGrade(3.4);
             book.AddGrade(9.7);
+
             double [] numbers = new [] {2.4, 3.3, 2.3};
             //numbers[0] = 2.4;
             //numbers[1] = 3.4;
