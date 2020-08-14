@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using GradeBook;
 
 namespace appConsole
 {
@@ -11,7 +12,7 @@ namespace appConsole
             double x = 34.1;
             double y =  x + 2.0;
             var result = x + y;
-
+            var book = new Book();
             //Declaración de arreglos y tipos
             //double [] numbers = new double[3];
             double [] numbers = new [] {2.4, 3.3, 2.3};
