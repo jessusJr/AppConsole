@@ -20,6 +20,12 @@ namespace appConsole
             var resultado = numbers[0];
             resultado += numbers[1];
             resultado += numbers[2];
+            double suma = 0.0;
+            foreach (double number in numbers)
+            {
+                suma += number;
+            }
+            Console.WriteLine(suma);
             Console.WriteLine(resultado);
             //numbers[3] = 3.2;
             if(args.Length > 0){
