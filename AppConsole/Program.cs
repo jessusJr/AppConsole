@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace appConsole
 {
@@ -20,11 +21,17 @@ namespace appConsole
             var resultado = numbers[0];
             resultado += numbers[1];
             resultado += numbers[2];
+
             double suma = 0.0;
             foreach (double number in numbers)
             {
                 suma += number;
             }
+
+            //declaracion de una lista
+            List <double> listGrades = new List<double>();
+            listGrades.Add(3.5);
+            Console.WriteLine(listGrades);
             Console.WriteLine(suma);
             Console.WriteLine(resultado);
             //numbers[3] = 3.2;
